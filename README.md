@@ -1,2 +1,2 @@
 # im_http
-im_http 接口
+im_http 接口 。
